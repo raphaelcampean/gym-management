@@ -1,1 +1,1 @@
-# gyn-managment
+# gyn-management
